@@ -11,6 +11,6 @@ class loaitruyen extends Model
     public $timestamps = false;
     public function truyen()
     {
-    	return $this->hasMany("truyen","maloai","id")
+    	return $this->hasMany("truyen","maloai","id");
     }
 }

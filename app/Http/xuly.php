@@ -1,4 +1,5 @@
 <?php
+
 public function xuly(Request $rq)
 {
 	$a = $rq-> a;
@@ -6,21 +7,20 @@ public function xuly(Request $rq)
 	$c = $rq-> c;
 	if($a != " " && $b !="")
 	{
-		if (is_numeric($a) && is_numeric($b) $$ is_numeric($c))
+		if (is_numeric($a) && is_numeric($b) && is_numeric($c))
 		{
 			$cv = $b*$b-(4*$a*$c);
-			return view("giaiptb2", compact("a","b","c",cv""));
+			return view("giaiptb2", compact("a","b","c","cv"));
 
 		}
-		else
-		{
-			$tb ="<h1 align='center'>phải nhập số em ơi</h1>";
-
-		}
+		
 		else
 		{
 			$tb="<h1 align='center'>phải nhập dữ liệu vào !!!</h1>";
 		}
-		return view("giaiptb2",compact("tb"))
+		return view("giaiptb2",compact("tb"));
 	}
 }
+	
+
+?>

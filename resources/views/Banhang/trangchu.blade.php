@@ -1,7 +1,6 @@
 @extends("Banhang.master")
 @section("content")
 <div class="features_items"><!--features_items-->
-                        <h2 class="title text-center">Sản phẩm mới nhất</h2>
                         @foreach($all_product as $key => $product)
                         <div class="col-sm-4">
                             <div class="product-image-wrapper">
@@ -12,7 +11,7 @@
                                             <h2>{{number_format($product->product_price).' '.'VNĐ'}}</h2>
                                             <p>{{$product->product_name}}</p>
                                         </div>
-                                      
+
                                 </div>
                             </a>
 

@@ -14,7 +14,7 @@
         
                         <h4>Nhóm 11</h4>
                         <p>
-                            <i class="glyphicon glyphicon-envelope"></i>Lớp: CD18tt7
+                            <i class="glyphicon glyphicon-envelope"></i>Khóa: K18
                             <br />
                             <i class="glyphicon glyphicon-globe"></i>Môn Học : Mã nguồn mở
                             <br />
