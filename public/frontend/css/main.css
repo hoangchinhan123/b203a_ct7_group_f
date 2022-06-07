@@ -464,101 +464,6 @@ ul.sub-menu {
     top: 50px;
 }
 
-.footer-widget {
-    margin-bottom: 68px;
-}
-
-.footer-widget .container {
-    border-top: 1px solid #ffffff;
-    padding-top: 15px;
-}
-
-.single-widget h2 {
-    color: #666663;
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    font-weight: 500;
-    margin-bottom: 22px;
-    text-transform: uppercase;
-}
-
-.single-widget h2 i {
-    margin-right: 15px;
-}
-
-.single-widget ul li a {
-    color: #8c8c88;
-    font-family: "Roboto", sans-serif;
-    font-size: 14px;
-    font-weight: 300;
-    padding: 5px 0;
-}
-
-.single-widget ul li a i {
-    margin-right: 18px;
-}
-
-.single-widget ul li a:hover {
-    background: none;
-    color: #fe980f;
-}
-
-.searchform input {
-    border: 1px solid #dddddd;
-    color: #ccccc6;
-    font-family: "Roboto", sans-serif;
-    font-size: 14px;
-    margin-top: 0;
-    outline: medium none;
-    padding: 7px;
-    width: 212px;
-}
-
-.searchform button {
-    background: #428bca;
-    border: medium none;
-    border-radius: 0;
-    margin-left: -5px;
-    margin-top: -3px;
-    padding: 7px 17px;
-}
-
-.searchform button i {
-    color: #ffffff;
-    font-size: 20px;
-}
-
-.searchform button:hover,
-.searchform button:focus {
-    background-color: #fe980f;
-}
-
-.searchform p {
-    color: #8c8c88;
-    font-family: "Roboto", sans-serif;
-    font-size: 14px;
-    font-weight: 300;
-    margin-top: 25px;
-}
-
-.footer-bottom {
-    background: #d6d6d0;
-    padding-top: 10px;
-}
-
-.footer-bottom p {
-    color: #363432;
-    font-family: "Roboto", sans-serif;
-    font-weight: 300;
-    margin-left: 15px;
-}
-
-.footer-bottom p span a {
-    color: #428bca;
-    font-style: italic;
-    text-decoration: underline;
-}
-
 /*************************
 ******* Home ******
 **************************/
@@ -654,7 +559,7 @@ ul.sub-menu {
 }
 .left-sidebar h2,
 .brands_products h2 {
-    color: #428bca;
+    color: #3933FF;
     font-family: "Roboto", sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -828,7 +733,7 @@ h2.title {
 }
 
 .productinfo h2 {
-    color: #428bca;
+    color: #3933FF;
     font-family: "Roboto", sans-serif;
     font-size: 24px;
     font-weight: 700;
@@ -2406,4 +2311,145 @@ textarea {
 
 .container {
     background: #f1f1f1;
+}
+
+/*==========================
+    Footer
+============================*/
+.site-footer {
+    padding: 45px 0 20px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #737373;
+}
+.site-footer hr {
+    border-top-color: #bbb;
+    opacity: 0.5;
+}
+.site-footer hr.small {
+    margin: 20px 0;
+}
+.site-footer h6 {
+    color: #3933FF;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 5px;
+    letter-spacing: 2px;
+}
+.site-footer a {
+    color: #737373;
+}
+.site-footer a:hover {
+    color: #3366cc;
+    text-decoration: none;
+}
+.footer-links {
+    padding-left: 0;
+    list-style: none;
+}
+.footer-links li {
+    display: block;
+}
+.footer-links a {
+    color: #737373;
+}
+.footer-links a:active,
+.footer-links a:focus,
+.footer-links a:hover {
+    color: #3366cc;
+    text-decoration: none;
+}
+.footer-links.inline li {
+    display: inline-block;
+}
+.site-footer .social-icons {
+    text-align: right;
+}
+.site-footer .social-icons a {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 6px;
+    margin-right: 0;
+    border-radius: 100%;
+    background-color: #33353d;
+}
+.copyright-text {
+    margin: 0;
+}
+@media (max-width: 991px) {
+    .site-footer [class^="col-"] {
+        margin-bottom: 30px;
+    }
+}
+@media (max-width: 767px) {
+    .site-footer {
+        padding-bottom: 0;
+    }
+    .site-footer .copyright-text,
+    .site-footer .social-icons {
+        text-align: center;
+    }
+}
+.social-icons {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.social-icons li {
+    display: inline-block;
+    margin-bottom: 4px;
+}
+.social-icons li.title {
+    margin-right: 15px;
+    text-transform: uppercase;
+    color: #96a2b2;
+    font-weight: 700;
+    font-size: 13px;
+}
+.social-icons a {
+    background-color: #eceeef;
+    color: #818a91;
+    font-size: 16px;
+    display: inline-block;
+    line-height: 44px;
+    width: 44px;
+    height: 44px;
+    text-align: center;
+    margin-right: 8px;
+    border-radius: 100%;
+    -webkit-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.social-icons a:active,
+.social-icons a:focus,
+.social-icons a:hover {
+    color: #fff;
+    background-color: #29aafe;
+}
+.social-icons.size-sm a {
+    line-height: 34px;
+    height: 34px;
+    width: 34px;
+    font-size: 14px;
+}
+.social-icons a.facebook:hover {
+    background-color: #3b5998;
+}
+.social-icons a.twitter:hover {
+    background-color: #00aced;
+}
+.social-icons a.linkedin:hover {
+    background-color: #007bb6;
+}
+.social-icons a.dribbble:hover {
+    background-color: #ea4c89;
+}
+@media (max-width: 767px) {
+    .social-icons li.title {
+        display: block;
+        margin-right: 0;
+        font-weight: 600;
+    }
 }
