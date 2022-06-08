@@ -327,7 +327,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <!-- footer -->
             <div class="footer">
                 <div class="wthree-copyright">
-                    <p>Nhom11</p>
+                    <p>Nhom F</p>
                 </div>
             </div>
             <!-- / footer -->
