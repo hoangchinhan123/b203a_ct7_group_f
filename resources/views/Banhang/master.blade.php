@@ -36,7 +36,7 @@
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="logo pull-left">
-                            <a href="GioiThieu"><img src="{{('frontend/images/home/logo.jpg')}}" alt="logo" style="width: 150px;" /></a>
+                            <a href="{{URL::to('GioiThieu')}}"><img src="{{('http://localhost/b203a_ct7_group_f/public/frontend/images/home/logo.jpg')}}" alt="logo" style="width: 150px;" /></a>
                         </div>
 
 
@@ -91,27 +91,12 @@
         <div class="header-bottom">
             <!--header-bottom-->
             <div class="container">
-                <div class="row">
-                    <div class="col-sm-7">
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                                <span class="sr-only">Toggle navigation</span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                            </button>
-                        </div>
-                        <div class="mainmenu pull-left">
-                            <ul class="nav navbar-nav collapse navbar-collapse">
-                                <li><a href="{{URL::to('GioiThieu')}}" class="active"><i class="fa fa-home" aria-hidden="true"></i> Trang chủ</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-sm-5">
+                <div class="row" style="padding-bottom: 20px;">
+                    <div class="col-sm-12">
                         <form action="{{URL::to('/tim-kiem')}}" method="POST" class="search_box pull-right">
                             {{csrf_field()}}
                             <i class="fa fa-search" aria-hidden="true"></i>
-                            <input type="text" name="keywords_submit" placeholder="Tìm kiếm sản phẩm" />
+                            <input type="text" name="keywords_submit" placeholder="Nhập tên sản phẩm muốn tìm kiếm ..." />
                         </form>
                     </div>
                 </div>
