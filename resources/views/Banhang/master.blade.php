@@ -65,17 +65,16 @@
                                 ?> -->
 
 
-                                <li><a href="{{URL::to('show-cart')}}"><i class="fa fa-shopping-cart"></i> Giỏ hàng</a></li>
+                                <li><a href="{{URL::to('show-cart')}}"><i class="fa fa-suitcase" aria-hidden="true"></i> Giỏ hàng</a></li>
                                 <?php
                                 $customer_id = Session::get('customer_id');
                                 if ($customer_id != NULL) {
                                 ?>
-                                    <li><a href="{{URL::to('logout-checkout')}}"><i class="fa fa-lock"></i> Đăng xuất</a></li>
-
+                                    <li><a href="{{URL::to('logout-checkout')}}"><i class="fa fa-sign-out" aria-hidden="true"></i> Đăng xuất</a></li>
                                 <?php
                                 } else {
                                 ?>
-                                    <li><a href="{{URL::to('login-checkout')}}"><i class="fa fa-lock"></i> Đăng nhập</a></li>
+                                    <li><a href="{{URL::to('login-checkout')}}"><i class="fa fa-sign-in" aria-hidden="true"></i> Đăng nhập</a></li>
                                 <?php
                                 }
                                 ?>

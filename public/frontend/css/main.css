@@ -197,23 +197,29 @@ a#scrollUp i {
 }
 
 .shop-menu ul li a {
-    background: #ffffff;
-    color: #696763;
+    background: #3933ff;
+    color: #ffffff;
     font-family: "Roboto", sans-serif;
     font-size: 14px;
     font-weight: 300;
-    padding: 0;
-    padding-right: 0;
+    padding: 10px 20px;
     margin-top: 10px;
+    text-align: center;
+}
+
+.shop-menu ul li a:hover {
+    background: #3933ff;
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 10px 20px;
+    margin-top: 10px;
+    text-align: center;
 }
 
 .shop-menu ul li a i {
     margin-right: 3px;
-}
-
-.shop-menu ul li a:hover {
-    color: #fe980f;
-    background: #fff;
 }
 
 .header-bottom {
@@ -559,7 +565,7 @@ ul.sub-menu {
 }
 .left-sidebar h2,
 .brands_products h2 {
-    color: #3933FF;
+    color: #3933ff;
     font-family: "Roboto", sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -733,7 +739,7 @@ h2.title {
 }
 
 .productinfo h2 {
-    color: #3933FF;
+    color: #3933ff;
     font-family: "Roboto", sans-serif;
     font-size: 24px;
     font-weight: 700;
@@ -1296,9 +1302,13 @@ h2.title {
 }
 
 .login-form {
+    background: #ffffff;
+    padding: 30px;
 }
 
 .signup-form {
+    background: #ffffff;
+    padding: 30px;
 }
 
 .login-form h2,
@@ -1343,7 +1353,7 @@ h2.title {
 
 .login-form form button,
 .signup-form form button {
-    background: #fe980f;
+    background: #3933ff;
     border: medium none;
     border-radius: 0;
     color: #ffffff;
@@ -1440,7 +1450,8 @@ h2.title {
 
 #cart_items .cart_info .table.table-condensed tr:last-child {
     border-bottom: 0;
-    background: #428bca;
+    background: #f1f1f1;
+    color: #3933ff;
 }
 
 .cart_info table tr td {
@@ -1500,6 +1511,9 @@ h2.title {
     font-size: 16px;
     text-align: center;
     font-family: "Roboto", sans-serif;
+    border-radius: 4px;
+    outline: none;
+    border: none;
 }
 
 .cart_delete {
@@ -1509,14 +1523,10 @@ h2.title {
 }
 
 .cart_delete a {
-    background: #f0f0e9;
+    background: red;
     color: #ffffff;
     padding: 5px 7px;
     font-size: 16px;
-}
-
-.cart_delete a:hover {
-    background: #fe980f;
 }
 
 .bg h2.title {
@@ -2330,7 +2340,7 @@ textarea {
     margin: 20px 0;
 }
 .site-footer h6 {
-    color: #3933FF;
+    color: #3933ff;
     font-size: 16px;
     text-transform: uppercase;
     margin-top: 5px;
