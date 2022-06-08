@@ -685,10 +685,6 @@ ul.sub-menu {
     background: #f0f0e9;
 }
 
-.footer-top .container {
-    border-bottom: 1px solid #e0e0da;
-    padding-bottom: 20px;
-}
 
 .companyinfo {
     margin-top: 57px;
@@ -712,9 +708,6 @@ ul.sub-menu {
     font-weight: 300;
 }
 
-.footer-top .col-sm-3 {
-    overflow: hidden;
-}
 
 .video-gallery {
     margin-top: 57px;
@@ -799,17 +792,17 @@ ul.sub-menu {
     top: 50px;
 }
 
-.footer-widget {
-    margin-bottom: 68px;
+#footer {
+    background: #1f1f1f;
 }
 
-.footer-widget .container {
+#footer .container {
     border-top: 1px solid #ffffff;
     padding-top: 15px;
 }
 
 .single-widget h2 {
-    color: #666663;
+    color: #fff;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
@@ -989,7 +982,7 @@ ul.sub-menu {
 }
 .left-sidebar h2,
 .brands_products h2 {
-    color: #428bca;
+    color: #ff6f61;
     font-family: "Roboto", sans-serif;
     font-size: 18px;
     font-weight: 700;

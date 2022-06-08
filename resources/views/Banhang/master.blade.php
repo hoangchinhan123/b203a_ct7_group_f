@@ -773,75 +773,91 @@
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077">
                                                             <a href="https://demo4.drfuri.com/razzi/">Home v1 –
-                                                                Minimal</a></li>
+                                                                Minimal</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6371">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi/home-2/?home_style=2">Home
-                                                                v2 – Classic</a></li>
+                                                                v2 – Classic</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6372">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi/home-3/?home_style=3">Home
-                                                                v3 – Fashion</a></li>
+                                                                v3 – Fashion</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6373">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi/home-4/?home_style=4">Home
-                                                                v4 – Boxes</a></li>
+                                                                v4 – Boxes</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6374">
                                                             <a href="https://demo4.drfuri.com/razzi5">Home v5 –
-                                                                Simple</a></li>
+                                                                Simple</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6375">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi/home-6/?home_style=6">Home
-                                                                v6 – Asymmetric</a></li>
+                                                                v6 – Asymmetric</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6376">
                                                             <a href="https://demo4.drfuri.com/razzi7">Home v7 –
-                                                                Masonry</a></li>
+                                                                Masonry</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6377">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi2/home-8/?home_style=8">Home
-                                                                v8 – Landing</a></li>
+                                                                v8 – Landing</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11263">
                                                             <a href="https://demo4.drfuri.com/razzi/home-10/">Home v9 –
-                                                                Fashion</a></li>
+                                                                Fashion</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11264">
                                                             <a href="https://demo4.drfuri.com/razzi8">Home v10 –
-                                                                Cases</a></li>
+                                                                Cases</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11267">
                                                             <a href="https://demo4.drfuri.com/razzi3/">Home v11 –
-                                                                Furniture</a></li>
+                                                                Furniture</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6511">
                                                             <a href="https://demo4.drfuri.com/razzi9/">Home v12 –
-                                                                Furniture</a></li>
+                                                                Furniture</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11265">
                                                             <a href="https://demo4.drfuri.com/razzi4/">Home v13 –
-                                                                Furniture</a></li>
+                                                                Furniture</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11268">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi3/home-2/?home_style=10">Home
-                                                                v14 – Furniture</a></li>
+                                                                v14 – Furniture</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11266">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi3/home-3/?home_style=10">Home
-                                                                v15 – Furniture</a></li>
+                                                                v15 – Furniture</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11269">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi/home-instagram/?home_style=10">Home
-                                                                v16 – Instagram</a></li>
+                                                                v16 – Instagram</a>
+                                                        </li>
                                                     </ul>
                                                 </div>
                                                 <div class="menu-item-mega mr-col col-flex col-flex-md-6">
@@ -853,66 +869,81 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12233">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/home-17/?home_style=17">Home
-                                                                v17 – Interior Decor</a></li>
+                                                                v17 – Interior Decor</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12234">
                                                             <a href="https://demo4.drfuri.com/razzi10/">Home v18 – Food
-                                                                Store</a></li>
+                                                                Store</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12235">
                                                             <a href="https://demo4.drfuri.com/razzi11/">Home v19 –
-                                                                Electronics</a></li>
+                                                                Electronics</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12236">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi/home-20/?home_style=20">Home
-                                                                v20 – Parallax</a></li>
+                                                                v20 – Parallax</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12237">
                                                             <a href="https://demo4.drfuri.com/razzi12/">Home v21 –
-                                                                Cosmetics</a></li>
+                                                                Cosmetics</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12238">
                                                             <a href="https://demo4.drfuri.com/razzi14/">Home v22 – Full
-                                                                Width</a></li>
+                                                                Width</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12239">
                                                             <a href="https://demo4.drfuri.com/razzi15/">Home v23 –
-                                                                Jewelry</a></li>
+                                                                Jewelry</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12240">
                                                             <a href="https://demo4.drfuri.com/razzi13/">Home v24 –
-                                                                Baby</a></li>
+                                                                Baby</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12241">
                                                             <a href="https://demo4.drfuri.com/razzi16/">Home v25 –
-                                                                Furniture</a></li>
+                                                                Furniture</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13126">
                                                             <a href="https://demo4.drfuri.com/razzi23/">Home v26 –
-                                                                Pharmacy</a></li>
+                                                                Pharmacy</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-13127 active">
                                                             <a href="https://demo4.drfuri.com/razzi18/">Home v27 –
-                                                                Tools</a></li>
+                                                                Tools</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13128">
                                                             <a href="https://demo4.drfuri.com/razzi19/">Home v28 –
-                                                                Nails</a></li>
+                                                                Nails</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13129">
                                                             <a href="https://demo4.drfuri.com/razzi20/">Home v29 –
-                                                                Fashion Sport</a></li>
+                                                                Fashion Sport</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13130">
                                                             <a href="https://demo4.drfuri.com/razzi21">Home v30 –
                                                                 Books<span style="--rz-badges-bg-color:#ff6f61;"
-                                                                    class="razzi-menu-badges">New</span></a></li>
+                                                                    class="razzi-menu-badges">New</span></a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13131">
                                                             <a href="https://demo4.drfuri.com/razzi22">Home v31 –
                                                                 Grocery<span style="--rz-badges-bg-color:#ff6f61;"
-                                                                    class="razzi-menu-badges">New</span></a></li>
+                                                                    class="razzi-menu-badges">New</span></a>
+                                                        </li>
                                                     </ul>
                                                 </div>
                                             </li>
@@ -960,20 +991,24 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7133">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi/shop/?shop_layout=7">Columns
-                                                                3</a></li>
+                                                                3</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7134">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi/shop/?shop_layout=8">Columns
-                                                                4</a></li>
+                                                                4</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7135">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi/shop/?shop_layout=9">Columns
-                                                                5</a></li>
+                                                                5</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6590">
-                                                            <a class=" is-label">Product Layout</a></li>
+                                                            <a class=" is-label">Product Layout</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6591">
                                                             <a
@@ -983,22 +1018,26 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6592">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product/almo-sideboard/?product_layout=2">Images
-                                                                Left</a></li>
+                                                                Left</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6593">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product/hanging-lamp-red/?product_layout=3">Images
-                                                                Grid</a></li>
+                                                                Grid</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6594">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product/pollock-executive-chair/?product_layout=4">Images
-                                                                Slider</a></li>
+                                                                Slider</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6595">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product/gubi-ronde-pendant/?product_layout=5">Images
-                                                                Stacked</a></li>
+                                                                Stacked</a>
+                                                        </li>
                                                     </ul>
                                                 </div>
                                                 <div class="menu-item-mega mr-col col-flex col-flex-md-3">
@@ -1014,12 +1053,14 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7054">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product/strandmon-wing-chair/">Color
-                                                                Swatches</a></li>
+                                                                Swatches</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7055">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product/almo-sideboard/">Image
-                                                                Swatches</a></li>
+                                                                Swatches</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7057">
                                                             <a
@@ -1039,22 +1080,26 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7058">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi/product/bag-with-flap/">Product
-                                                                Video</a></li>
+                                                                Video</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7060">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi20/shop/nike-sportswear-futura-luxe/">Variation
                                                                 Images<span style="--rz-badges-bg-color:#ff6f61;"
-                                                                    class="razzi-menu-badges">New</span></a></li>
+                                                                    class="razzi-menu-badges">New</span></a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13133">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi/shop/soft-flap-crossbody/">Bought
                                                                 Together<span style="--rz-badges-bg-color:#ff6f61;"
-                                                                    class="razzi-menu-badges">New</span></a></li>
+                                                                    class="razzi-menu-badges">New</span></a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7063">
-                                                            <a class=" is-label">Product Pages</a></li>
+                                                            <a class=" is-label">Product Pages</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7162">
                                                             <a href="https://demo4.drfuri.com/razzi9/recent">New</a>
@@ -1066,7 +1111,8 @@
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7066">
                                                             <a href="https://demo4.drfuri.com/razzi9/top-rated/">Best
-                                                                Rating</a></li>
+                                                                Rating</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7067">
                                                             <a
@@ -1075,7 +1121,8 @@
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7065">
                                                             <a href="https://demo4.drfuri.com/razzi9/best-selling/">Best
-                                                                Selling</a></li>
+                                                                Selling</a>
+                                                        </li>
                                                     </ul>
                                                 </div>
                                                 <div class="menu-item-mega mr-col col-flex col-flex-md-3">
@@ -1086,22 +1133,26 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7070">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product-loop-style/?product_loop=1">Icons
-                                                                over thumbnail</a></li>
+                                                                over thumbnail</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7071">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product-loop-style/?product_loop=2">Quick
-                                                                view button</a></li>
+                                                                view button</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7072">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product-loop-style/?product_loop=3">Add
-                                                                to cart button</a></li>
+                                                                to cart button</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7073">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product-loop-style/?product_loop=4">Icons
-                                                                on the bottom</a></li>
+                                                                on the bottom</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7074">
                                                             <a
@@ -1111,25 +1162,30 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7075">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product-loop-style/?product_loop=6">Standard
-                                                                button</a></li>
+                                                                button</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7076">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product-loop-style/?product_loop=7">Info
-                                                                on hover</a></li>
+                                                                on hover</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7077">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product-loop-style/?product_loop=8">Add
-                                                                to cart text</a></li>
+                                                                to cart text</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7078">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product-loop-style/?product_loop=9">Quick
-                                                                Shop button</a></li>
+                                                                Shop button</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7061">
-                                                            <a class=" is-label">Woo Pages</a></li>
+                                                            <a class=" is-label">Woo Pages</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7062">
                                                             <a
@@ -1138,7 +1194,8 @@
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6055">
                                                             <a href="https://demo4.drfuri.com/razzi18/my-account-2/">My
-                                                                account</a></li>
+                                                                account</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12967">
                                                             <a
@@ -1176,7 +1233,8 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7225">
-                                                            <a class=" is-label">Added To Cart</a></li>
+                                                            <a class=" is-label">Added To Cart</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7235">
                                                             <a
@@ -1199,22 +1257,26 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10228">
-                                                            <a href="#" class=" is-label">Product Features</a></li>
+                                                            <a href="#" class=" is-label">Product Features</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10227">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi9/product/gubi-ronde-pendant/">Buy
-                                                                Now</a></li>
+                                                                Now</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10229">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi/product/basic-dress-green/">Sticky
-                                                                Add To Cart v1</a></li>
+                                                                Add To Cart v1</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10230">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi/product/basic-dress-green/?sticky_atc_style=2">Sticky
-                                                                Add To Cart v2</a></li>
+                                                                Add To Cart v2</a>
+                                                        </li>
                                                     </ul>
                                                 </div>
                                             </li>
@@ -1233,25 +1295,30 @@
                                         <ul class="dropdown-submenu">
                                             <li
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6059">
-                                                <a href="https://demo4.drfuri.com/razzi18/about-us/">About Us</a></li>
+                                                <a href="https://demo4.drfuri.com/razzi18/about-us/">About Us</a>
+                                            </li>
                                             <li
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6061">
-                                                <a href="https://demo4.drfuri.com/razzi18/faq/">FAQs</a></li>
+                                                <a href="https://demo4.drfuri.com/razzi18/faq/">FAQs</a>
+                                            </li>
                                             <li
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6123">
                                                 <a href="https://demo4.drfuri.com/razzi18/shipping-returns/">Shipping
-                                                    &amp; Returns</a></li>
+                                                    &amp; Returns</a>
+                                            </li>
                                             <li
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6062">
                                                 <a href="https://demo4.drfuri.com/razzi18/store-locator/">Store
-                                                    Locator</a></li>
+                                                    Locator</a>
+                                            </li>
                                             <li
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6110">
                                                 <a href="https://demo4.drfuri.com/razzi18/contact-us/">Contact Us</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9265">
-                                                <a href="https://demo4.drfuri.com/razzi9/404">404 Page</a></li>
+                                                <a href="https://demo4.drfuri.com/razzi9/404">404 Page</a>
+                                            </li>
                                         </ul>
                                     </li>
                                     <li
@@ -1273,12 +1340,14 @@
                                             <li
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10734">
                                                 <a href="https://demo4.drfuri.com/razzi/blogs/?blog_ver=2">Blog Grid 3
-                                                    columns</a></li>
+                                                    columns</a>
+                                            </li>
                                             <li
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10735">
                                                 <a
                                                     href="https://demo4.drfuri.com/razzi9/5-tips-to-increase-your-online-sales/">Single
-                                                    Post</a></li>
+                                                    Post</a>
+                                            </li>
                                         </ul>
                                     </li>
                                     <li
@@ -1316,7 +1385,8 @@
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12249">
                                                             <a href="https://demo4.drfuri.com/razzi18/icon-box/">Icon
-                                                                Box</a></li>
+                                                                Box</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12250">
                                                             <a
@@ -1335,11 +1405,13 @@
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12246">
                                                             <a href="https://demo4.drfuri.com/razzi18/contact-form/">Contact
-                                                                Form</a></li>
+                                                                Form</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12251">
                                                             <a href="https://demo4.drfuri.com/razzi18/video-players/">Video
-                                                                Players</a></li>
+                                                                Players</a>
+                                                        </li>
                                                     </ul>
                                                 </div>
                                                 <div class="menu-item-mega mr-col col-flex col-flex-md-4">
@@ -1378,7 +1450,8 @@
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12259">
                                                             <a href="https://demo4.drfuri.com/razzi18/image-box/">Image
-                                                                Box</a></li>
+                                                                Box</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12260">
                                                             <a
@@ -1387,7 +1460,8 @@
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12261">
                                                             <a href="https://demo4.drfuri.com/razzi18/pricing-table/">Pricing
-                                                                Table</a></li>
+                                                                Table</a>
+                                                        </li>
                                                     </ul>
                                                 </div>
                                                 <div class="menu-item-mega mr-col col-flex col-flex-md-4">
@@ -1398,42 +1472,51 @@
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12263">
                                                             <a href="https://demo4.drfuri.com/razzi18/product-banner/">Product
-                                                                Banner</a></li>
+                                                                Banner</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12264">
                                                             <a href="https://demo4.drfuri.com/razzi18/product-tabs/">Product
-                                                                Tabs</a></li>
+                                                                Tabs</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12265">
                                                             <a href="https://demo4.drfuri.com/razzi18/products-grid/">Products
-                                                                Grid</a></li>
+                                                                Grid</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12266">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi18/product-carousel/">Product
-                                                                Carousel</a></li>
+                                                                Carousel</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12267">
                                                             <a href="https://demo4.drfuri.com/razzi18/product-masonry/">Product
-                                                                Masonry</a></li>
+                                                                Masonry</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12268">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi18/product-category/">Product
-                                                                Category</a></li>
+                                                                Category</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12269">
                                                             <a href="https://demo4.drfuri.com/razzi18/product-single/">Product
-                                                                Single</a></li>
+                                                                Single</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12270">
                                                             <a
                                                                 href="https://demo4.drfuri.com/razzi18/product-showcase/">Product
-                                                                Showcase</a></li>
+                                                                Showcase</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12271">
                                                             <a href="https://demo4.drfuri.com/razzi18/product-deal/">Product
-                                                                Deal</a></li>
+                                                                Deal</a>
+                                                        </li>
                                                     </ul>
                                                 </div>
                                             </li>
@@ -1696,7 +1779,7 @@
             <div class="row">
                 <div class="col-sm-3">
                     <div class="left-sidebar">
-                        <h2 style="background: #CBFEEA;padding: 10px;">Danh mục sản phẩm</h2>
+                        <h2 style="background: #303030;padding: 10px;">Danh mục sản phẩm</h2>
                         <div class="panel-group category-products" id="accordian">
                             <!--category-productsr-->
                             @foreach($category as $key => $cate)
@@ -1714,7 +1797,7 @@
 
                         <div class="brands_products">
                             <!--brands_products-->
-                            <h2 style="background: #CBFEEA;padding: 10px;">Thương hiệu sản phẩm</h2>
+                            <h2 style="background: #303030;padding: 10px;">Thương hiệu sản phẩm</h2>
                             <div class="brands-name">
                                 <ul class="nav nav-pills nav-stacked">
                                     @foreach($brand as $key => $brand)
@@ -1743,76 +1826,68 @@
 
     <footer id="footer">
         <!--Footer-->
-        <div class="footer-top">
-            <div class="container">
-
-            </div>
-        </div>
-
-        <div class="footer-widget">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-2">
-                        <div class="single-widget">
-                            <h2>Service</h2>
-                            <ul class="nav nav-pills nav-stacked">
-                                <li><a href="#">Online Help</a></li>
-                                <li><a href="#">Contact Us</a></li>
-                                <li><a href="#">Order Status</a></li>
-                                <li><a href="#">Change Location</a></li>
-                                <li><a href="#">FAQ’s</a></li>
-                            </ul>
-                        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-2">
+                    <div class="single-widget">
+                        <h2>Service</h2>
+                        <ul class="nav nav-pills nav-stacked">
+                            <li><a href="#">Online Help</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="#">Order Status</a></li>
+                            <li><a href="#">Change Location</a></li>
+                            <li><a href="#">FAQ’s</a></li>
+                        </ul>
                     </div>
-                    <div class="col-sm-2">
-                        <div class="single-widget">
-                            <h2>Nhom11 SHOP</h2>
-                            <ul class="nav nav-pills nav-stacked">
-                                <li><a href="#">T-Shirt</a></li>
-                                <li><a href="#">Mens</a></li>
-                                <li><a href="#">Womens</a></li>
-                                <li><a href="#">Gift Cards</a></li>
-                                <li><a href="#">Shoes</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-sm-2">
-                        <div class="single-widget">
-                            <h2>Policies</h2>
-                            <ul class="nav nav-pills nav-stacked">
-                                <li><a href="#">Terms of Use</a></li>
-                                <li><a href="#">Privecy Policy</a></li>
-                                <li><a href="#">Refund Policy</a></li>
-                                <li><a href="#">Billing System</a></li>
-                                <li><a href="#">Ticket System</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-sm-2">
-                        <div class="single-widget">
-                            <h2>About Shopper</h2>
-                            <ul class="nav nav-pills nav-stacked">
-                                <li><a href="#">Company Information</a></li>
-                                <li><a href="#">Careers</a></li>
-                                <li><a href="#">Store Location</a></li>
-                                <li><a href="#">Affillate Program</a></li>
-                                <li><a href="#">Copyright</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-sm-3 col-sm-offset-1">
-                        <div class="single-widget">
-                            <h2>About Shopper</h2>
-                            <form action="#" class="searchform">
-                                <input type="text" placeholder="Your email address" />
-                                <button type="submit" class="btn btn-default"><i
-                                        class="fa fa-arrow-circle-o-right"></i></button>
-                                <p>Get the most recent updates from <br />our site and be updated your self...</p>
-                            </form>
-                        </div>
-                    </div>
-
                 </div>
+                <div class="col-sm-2">
+                    <div class="single-widget">
+                        <h2>SHOP</h2>
+                        <ul class="nav nav-pills nav-stacked">
+                            <li><a href="#">T-Shirt</a></li>
+                            <li><a href="#">Mens</a></li>
+                            <li><a href="#">Womens</a></li>
+                            <li><a href="#">Gift Cards</a></li>
+                            <li><a href="#">Shoes</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-2">
+                    <div class="single-widget">
+                        <h2>Policies</h2>
+                        <ul class="nav nav-pills nav-stacked">
+                            <li><a href="#">Terms of Use</a></li>
+                            <li><a href="#">Privecy Policy</a></li>
+                            <li><a href="#">Refund Policy</a></li>
+                            <li><a href="#">Billing System</a></li>
+                            <li><a href="#">Ticket System</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-2">
+                    <div class="single-widget">
+                        <h2>About Shopper</h2>
+                        <ul class="nav nav-pills nav-stacked">
+                            <li><a href="#">Company Information</a></li>
+                            <li><a href="#">Careers</a></li>
+                            <li><a href="#">Store Location</a></li>
+                            <li><a href="#">Affillate Program</a></li>
+                            <li><a href="#">Copyright</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-sm-offset-1">
+                    <div class="single-widget">
+                        <h2>About Shopper</h2>
+                        <form action="#" class="searchform">
+                            <input type="text" placeholder="Your email address" />
+                            <button type="submit" class="btn btn-default"><i
+                                    class="fa fa-arrow-circle-o-right"></i></button>
+                            <p>Get the most recent updates from <br />our site and be updated your self...</p>
+                        </form>
+                    </div>
+                </div>
+
             </div>
         </div>
     </footer>
