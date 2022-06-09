@@ -7,13 +7,7 @@
     </div>
     <div class="row w3-res-tb">
       <div class="col-sm-5 m-b-xs">
-        <select class="input-sm form-control w-sm inline v-middle">
-          <option value="0">Bulk action</option>
-          <option value="1">Delete selected</option>
-          <option value="2">Bulk edit</option>
-          <option value="3">Export</option>
-        </select>
-        <button class="btn btn-sm btn-default">Apply</button>                
+        
       </div>
       <div class="col-sm-4">
       </div>
@@ -62,21 +56,6 @@
             <td><img src="uploads\product\{{ $pro->product_image }}" height="100" width="100"></td>
             <td>{{ $pro->category_name }}</td>
             <td>{{ $pro->brand_name }}</td>
-
-            <td><span class="text-ellipsis">
-              <?php
-               if($pro->product_status==0){
-                ?>
-                <a href="{{URL::to('unactive-product/'.$pro->product_id)}}"><span class="fa-thumb-styling fa fa-thumbs-up"></span></a>
-                <?php
-                 }else{
-                ?>  
-                 <a href="{{URL::to('active-product/'.$pro->product_id)}}"><span class="fa-thumb-styling-down fa fa-thumbs-down"></span></a>
-                <?php
-               }
-              ?>
-            </span></td>
-           
             <td>
               <a href="{{URL::to('edit-product/'.$pro->product_id)}}" class="active styling-edit" ui-toggle-class="">
                 <i class="fa fa-check text-success text-active"></i></a>
