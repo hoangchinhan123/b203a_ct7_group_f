@@ -737,7 +737,7 @@
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="logo pull-left">
-                            <a class="Razzi" href="GioiThieu" style="font-size: 28px; font-weight: 600; text-transform: none; color: #fff">Razzi.</a>
+                            <a class="Razzi" href="http://localhost/b203a_ct7_group_f/public/GioiThieu  " style="font-size: 28px; font-weight: 600; text-transform: none; color: #fff">Razzi.</a>
                         </div>
                     </div>
                     <div class="col-sm-4">
@@ -777,7 +777,7 @@
                                 $customer_id = Session::get('customer_id');
                                 if ($customer_id != NULL) {
                                 ?>
-                                    <li><a href="{{URL::to('logout-checkout')}}"><i class="fa fa-lock"></i></a></li>
+                                    <li><a href="{{URL::to('logout-checkout')}}"><i class="fa fa-sign-out" aria-hidden="true"></i></a></li>
 
                                 <?php
                                 } else {
@@ -892,45 +892,6 @@
                         <form action="{{URL::to('/tim-kiem')}}" method="POST" class="search_box pull-right">
                             {{csrf_field()}}
                             <input type="text" class="search-field" name="keywords_submit" placeholder="Search for items" />
-                            <div class="product-cat">
-                                <div class="product-cat-label"><span class="label">All Categories</span><span class="razzi-svg-icon "><svg aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                            <polyline points="6 9 12 15 18 9"></polyline>
-                                        </svg></span></div><select name="product_cat" id="product-cat" class="product-cat-dd">
-                                    <option value="0" selected="selected">All Categories</option>
-                                    <option class="level-0" value="hand-tools">Hand Tools</option>
-                                    <option class="level-1" value="abrasive-wheels">&nbsp;&nbsp;&nbsp;Abrasive Wheels
-                                    </option>
-                                    <option class="level-1" value="gardening-tools">&nbsp;&nbsp;&nbsp;Gardening Tools
-                                    </option>
-                                    <option class="level-1" value="impact-drivers">&nbsp;&nbsp;&nbsp;Impact Drivers
-                                    </option>
-                                    <option class="level-1" value="knives-parts">&nbsp;&nbsp;&nbsp;Knives &amp; Parts
-                                    </option>
-                                    <option class="level-1" value="loppers">&nbsp;&nbsp;&nbsp;Loppers</option>
-                                    <option class="level-0" value="power-tools">Power Tools</option>
-                                    <option class="level-1" value="glue-guns">&nbsp;&nbsp;&nbsp;Glue Guns</option>
-                                    <option class="level-1" value="grinders">&nbsp;&nbsp;&nbsp;Grinders</option>
-                                    <option class="level-1" value="impact-wrenches">&nbsp;&nbsp;&nbsp;Impact Wrenches
-                                    </option>
-                                    <option class="level-1" value="power-drill">&nbsp;&nbsp;&nbsp;Power Drill</option>
-                                    <option class="level-1" value="router-parts">&nbsp;&nbsp;&nbsp;Router Parts</option>
-                                    <option class="level-0" value="storage">Storage</option>
-                                    <option class="level-1" value="garage-storage">&nbsp;&nbsp;&nbsp;Garage Storage
-                                    </option>
-                                    <option class="level-1" value="tool-bags">&nbsp;&nbsp;&nbsp;Tool Bags</option>
-                                    <option class="level-1" value="tool-boxes">&nbsp;&nbsp;&nbsp;Tool Boxes</option>
-                                    <option class="level-1" value="tool-holsters">&nbsp;&nbsp;&nbsp;Tool Holsters
-                                    </option>
-                                    <option class="level-1" value="work-benches">&nbsp;&nbsp;&nbsp;Work Benches</option>
-                                    <option class="level-0" value="woodworking">Woodworking</option>
-                                    <option class="level-1" value="ball-peen-hammers">&nbsp;&nbsp;&nbsp;Ball-Peen
-                                        Hammers</option>
-                                    <option class="level-1" value="claw-hammers">&nbsp;&nbsp;&nbsp;Claw Hammers</option>
-                                    <option class="level-1" value="hand-planer">&nbsp;&nbsp;&nbsp;Hand Planer</option>
-                                    <option class="level-1" value="power-saws">&nbsp;&nbsp;&nbsp;Power Saws</option>
-                                    <option class="level-1" value="wood-cutting">&nbsp;&nbsp;&nbsp;Wood Cutting</option>
-                                </select>
-                            </div>
                             <button class="search-submit" type="submit"><span class="razzi-svg-icon "><svg aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                         <circle cx="11" cy="11" r="8"></circle>
                                         <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
@@ -995,65 +956,66 @@
         <!--Footer-->
         <div class="container">
             <div class="row">
+                <div class="col-sm-3">
+                    <div class="single-widget" style="display: flex;flex-direction: column;">
+                        <div class="logo pull-left" style="margin-bottom: 20px;">
+                            <a class="Razzi" href="http://localhost/b203a_ct7_group_f/public/GioiThieu  " style="font-size: 28px; font-weight: 600; text-transform: none; color: #fff">Razzi.</a>
+                        </div>
+                        <div style="color: white;display: flex;gap:20px;font-size: 25px;">
+                            <i class="fa fa-facebook-square" aria-hidden="true"></i>
+                            <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                            <i class="fa fa-instagram" aria-hidden="true"></i>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-sm-2">
                     <div class="single-widget">
-                        <h2>Service</h2>
+                        <h2>DANH MỤC</h2>
                         <ul class="nav nav-pills nav-stacked">
-                            <li><a href="#">Online Help</a></li>
-                            <li><a href="#">Contact Us</a></li>
-                            <li><a href="#">Order Status</a></li>
-                            <li><a href="#">Change Location</a></li>
-                            <li><a href="#">FAQ’s</a></li>
+                            <li><a href="#">HỘP CÔNG CỤ</a></li>
+                            <li><a href="#">ĐỤC</a></li>
+                            <li><a href="#">THƯỚC</a></li>
+                            <li><a href="#">MÁY BẮN ĐINH</a></li>
+                            <li><a href="#">KHOAN BÊ TÔNG</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-sm-2">
                     <div class="single-widget">
-                        <h2>SHOP</h2>
+                        <h2>DANH MỤC</h2>
                         <ul class="nav nav-pills nav-stacked">
-                            <li><a href="#">T-Shirt</a></li>
-                            <li><a href="#">Mens</a></li>
-                            <li><a href="#">Womens</a></li>
-                            <li><a href="#">Gift Cards</a></li>
-                            <li><a href="#">Shoes</a></li>
+                            <li><a href="#">HỘP CÔNG CỤ</a></li>
+                            <li><a href="#">ĐỤC</a></li>
+                            <li><a href="#">THƯỚC</a></li>
+                            <li><a href="#">MÁY BẮN ĐINH</a></li>
+                            <li><a href="#">KHOAN BÊ TÔNG</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-sm-2">
                     <div class="single-widget">
-                        <h2>Policies</h2>
+                        <h2>DANH MỤC</h2>
                         <ul class="nav nav-pills nav-stacked">
-                            <li><a href="#">Terms of Use</a></li>
-                            <li><a href="#">Privecy Policy</a></li>
-                            <li><a href="#">Refund Policy</a></li>
-                            <li><a href="#">Billing System</a></li>
-                            <li><a href="#">Ticket System</a></li>
+                            <li><a href="#">HỘP CÔNG CỤ</a></li>
+                            <li><a href="#">ĐỤC</a></li>
+                            <li><a href="#">THƯỚC</a></li>
+                            <li><a href="#">MÁY BẮN ĐINH</a></li>
+                            <li><a href="#">KHOAN BÊ TÔNG</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-sm-2">
                     <div class="single-widget">
-                        <h2>About Shopper</h2>
+                        <h2>DANH MỤC</h2>
                         <ul class="nav nav-pills nav-stacked">
-                            <li><a href="#">Company Information</a></li>
-                            <li><a href="#">Careers</a></li>
-                            <li><a href="#">Store Location</a></li>
-                            <li><a href="#">Affillate Program</a></li>
-                            <li><a href="#">Copyright</a></li>
+                            <li><a href="#">HỘP CÔNG CỤ</a></li>
+                            <li><a href="#">ĐỤC</a></li>
+                            <li><a href="#">THƯỚC</a></li>
+                            <li><a href="#">MÁY BẮN ĐINH</a></li>
+                            <li><a href="#">KHOAN BÊ TÔNG</a></li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-3 col-sm-offset-1">
-                    <div class="single-widget">
-                        <h2>About Shopper</h2>
-                        <form action="#" class="searchform">
-                            <input type="text" placeholder="Your email address" />
-                            <button type="submit" class="btn btn-default"><i class="fa fa-arrow-circle-o-right"></i></button>
-                            <p>Get the most recent updates from <br />our site and be updated your self...</p>
-                        </form>
-                    </div>
-                </div>
-
             </div>
         </div>
     </footer>
@@ -1176,7 +1138,6 @@
     <script defer type='text/javascript' src='https://stats.wp.com/s-202223.js' id='woocommerce-analytics-js'></script>
     <script src="{{asset('frontend/js/jquery.js')}}"></script>
     <script src="{{asset('frontend/js/bootstrap.min.js')}}"></script>
-    <script src="{{asset('frontend/js/jquery.scrollUp.min.js')}}"></script>
     <script src="{{asset('frontend/js/price-range.js')}}"></script>
     <script src="{{asset('frontend/js/jquery.prettyPhoto.js')}}"></script>
     <script src="{{asset('frontend/js/main.js')}}"></script>

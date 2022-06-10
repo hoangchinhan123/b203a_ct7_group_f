@@ -52,12 +52,14 @@
                                 if ($customer_id != NULL) {
                                 ?>
 
-                                    <a class="btn btn-default check_out" href="{{URL::to('checkout')}}" style="background: black;color: white;">Mua hàng</a>
+                                    <!-- <a class="btn btn-default check_out" href="{{URL::to('checkout')}}" style="background: black;color: white;">Mua hàng</a> -->
+                                    <a class="btn btn-default check_out">Mua hàng</a>
                                 <?php
                                 } else {
                                 ?>
 
-                                    <a class="btn btn-default check_out" href="{{URL::to('login-checkout')}}" style="background: black;color: white;">Mua hàng</a>
+                                    <!-- <a class="btn btn-default check_out" href="{{URL::to('login-checkout')}}" style="background: black;color: white;">Mua hàng</a> -->
+                                    <a class="btn btn-default check_out">Mua hàng</a>
                                 <?php
                                 }
                                 ?>
