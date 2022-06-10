@@ -26,7 +26,6 @@
                                 <img src="images/product-details/rating.png" alt="" />
                                 <form action="{{URL::to('/save-cart')}}" method="POST">
                                     {{ csrf_field()}}
-                                
                                 <span>
                                     <span>{{number_format($value->product_price).'VND'}}</span>
                                     <label>Số Lượng:</label>
@@ -36,7 +35,6 @@
                                         <i class="fa fa-shopping-cart"></i>
                                         Thêm vào giỏ hàng
                                     </button>
-
                                 </span>
                             </form>
                                 <p><b>Tình trạng:</b> Còn hàng</p>
@@ -59,13 +57,9 @@
                         <div class="tab-content">
                             <div class="tab-pane fade active in" id="details" >
                                 <p>{!!$value->product_desc!!}</p>
-                                
                             </div>
-                            
                             <div class="tab-pane fade" id="companyprofile" >
                                 <p>{!!$value->product_content!!}</p>
-                                
-                        
                             </div>
                             <div class="tab-pane fade " id="reviews" >
                                 <div class="col-sm-12">
@@ -76,7 +70,6 @@
                                     </ul>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
                                     <p><b>Write Your Review</b></p>
-                                    
                                     <form action="#">
                                         <span>
                                             <input type="text" placeholder="Your Name"/>
